@@ -1,2 +1,8 @@
 using System;
-class{}
+class Aula01
+{
+    static void Main()
+    {
+        
+    }
+}
