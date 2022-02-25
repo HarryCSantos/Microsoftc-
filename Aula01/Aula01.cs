@@ -1,5 +1,5 @@
 using System;
-class Aula01
+class Hello
 {
     static void Main()
     {
