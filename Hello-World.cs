@@ -1,5 +1,6 @@
 using System;
-
+namespace Microsoftc#
+{ 
     class Hello-World
     {
         static void Main(string[] args)
@@ -7,6 +8,6 @@ using System;
             Console.WriteLine("Hello World!");
         }
     }
-
+}
 
 
