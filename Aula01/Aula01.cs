@@ -2,7 +2,7 @@
 //First example
 class Aula01
 {
-    static void Main()
+    static void Main(string[] args)
     {
         Console.WriteLine("Hello World!");
     }
