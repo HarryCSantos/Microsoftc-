@@ -1,10 +1,14 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
-    class Hello
+
+namespace HelloWorld
+{ 
+    class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-        Console.WriteLine("Hello World!");
+          Console.WriteLine("Hello World!");
         }
     }
-    
+}
+
