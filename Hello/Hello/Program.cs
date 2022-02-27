@@ -5,7 +5,7 @@ namespace Hello
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(int[] args)
         {
             //Console.WriteLine("Hello World!");
             Console.WriteLine(x + y);
