@@ -4,5 +4,8 @@ using System.Linq;
 
 class Program
 {
-    static voif Main()
+    static void Main()
+    {
+
+    }
 }
