@@ -1,8 +1,7 @@
 ﻿using System;
-
+int myNum = 50;
 namespace Hello
 {
-    int myNum = 50;
     class Program
     {
         static void Main(string[] args)
