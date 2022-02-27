@@ -1,8 +1,8 @@
 ﻿using System;
-string myName = Harry;
-namespace Harry
+
+namespace Hello
 {
-    class HarryW
+    class Program
     {
         static void Main(string[] args)
         {
