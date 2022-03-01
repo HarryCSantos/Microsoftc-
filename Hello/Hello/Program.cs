@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+using System.Linq;
 
 class Program
 {
@@ -8,7 +8,7 @@ class Program
     {
         int x = 5;
         int y = 10;
-
-        Console.WriteLine(x + y);
+        
+        Console.WriteLine(x+y);
     }
 }
