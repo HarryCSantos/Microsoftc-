@@ -9,7 +9,7 @@ class Program
         int x = 4;
         int y = 15;
         int w = 29;
-        int z = x + y;
+        int z = x + y + w;
         
         Console.WriteLine(z);
     }
