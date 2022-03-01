@@ -5,7 +5,7 @@ class Hello
     static void Main()
     {
        
-        Console.WriteLine(z);
+        Console.WriteLine();
     }
 }
 // This is a single-line comment
