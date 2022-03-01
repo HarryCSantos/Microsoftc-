@@ -10,7 +10,7 @@ class Program
         int y = 10;
         int z = x + y;
         
-        Console.WriteLine(z);
+        Console.WriteLine(x);
     }
 }
 // This is a single-line comment
