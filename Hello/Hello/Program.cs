@@ -12,3 +12,5 @@ class Program
         Console.WriteLine(x+y);
     }
 }
+// This is a single-line comment
+/* This is multi-line comment */
