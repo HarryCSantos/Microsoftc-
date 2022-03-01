@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-class Program
+class Hello
 {
     static void Main()
     {
