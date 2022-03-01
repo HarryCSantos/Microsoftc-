@@ -6,8 +6,8 @@ class Program
 {
     static void Main()
     {
-        int x = 5;
-        int y = 10;
+        int x = 4;
+        int y = 15;
         int z = x + y;
         
         Console.WriteLine(z);
