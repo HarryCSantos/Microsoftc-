@@ -8,6 +8,7 @@ class Hello
     {
         int x = 4;
         int y = 15;
+        int w = 34;
         int z = x + y;
         
         Console.WriteLine(z);
