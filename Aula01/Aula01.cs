@@ -2,4 +2,8 @@
 //First example
 
 using System;
+class hello 
+{
+    
+}
 
