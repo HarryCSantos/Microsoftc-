@@ -4,6 +4,9 @@
 using System;
 class hello 
 {
-    
+    static void Main()
+    {
+        
+    }
 }
 
