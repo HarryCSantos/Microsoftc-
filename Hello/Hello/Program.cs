@@ -4,7 +4,7 @@ class Hello
 {
     static void Main()
     {
-       
+       int x = 5;
         Console.WriteLine();
     }
 }
