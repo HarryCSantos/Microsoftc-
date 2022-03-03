@@ -6,7 +6,7 @@ class Hello
     {
        int x = 5;
        int y = 10;
-        Console.WriteLine();
+        Console.WriteLine(x + y);
     }
 }
 // This is a single-line comment
