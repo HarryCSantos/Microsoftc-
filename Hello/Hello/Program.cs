@@ -12,4 +12,3 @@ class Hello
 /* This is multi-line comment */
 
 // This is a single-line comment
-/*This is multi-line comment*/
